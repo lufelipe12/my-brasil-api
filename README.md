@@ -12,7 +12,9 @@ This repo was made for the kenzie academy's students usage.
 ### /endereco/19131243000197
 
 status 200: 
+
  res : 
+ 
        {
 	        "uf": "SP",
 	        "cep": "01311902",
@@ -23,7 +25,8 @@ status 200:
        
 status 400: 
 
-res: {
+res: 
+{
 	"message": "CNPJ {cnpj} inválido.",
 	"type": "bad_request",
 	"name": "BadRequestError"
