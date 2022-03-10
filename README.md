@@ -26,6 +26,7 @@ status 200:
 status 400: 
 
 res: 
+
 {
 	"message": "CNPJ {cnpj} inválido.",
 	"type": "bad_request",
