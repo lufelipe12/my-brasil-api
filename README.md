@@ -5,11 +5,11 @@ This repo was made for the kenzie academy's students usage.
 
 # url: 
 
-## ENDPOINT
+# ENDPOINT
 
-# GET: /endereco/:{cnpj}
+## GET: /endereco/:{cnpj}
 
-# /endereco/19131243000197
+### /endereco/19131243000197
 
 status 200: 
  res : 
